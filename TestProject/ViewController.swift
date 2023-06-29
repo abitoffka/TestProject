@@ -15,11 +15,11 @@ class ViewController: UIViewController {
     }
 
     func showUpdates() {
-        //
+        //updates to be shown
     }
     
     func deleteUpdates() {
-        // 
+        //delete the updates
     }
 }
 
