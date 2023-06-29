@@ -17,5 +17,9 @@ class ViewController: UIViewController {
     func showUpdates() {
         //updates to be shown
     }
+    
+    func testFunc() {
+        //Test function
+    }
 }
 
